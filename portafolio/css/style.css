@@ -1,0 +1,35 @@
+
+table{
+    background-color: rgb(190, 165, 212);
+   border: lightseagreen double 3px;
+}
+
+.header h1{
+    color: aqua;
+    padding: 20px;
+    border:red dashed 10px
+}
+
+h2{
+    color:  orange;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    
+}
+
+.header blockquote{
+    font-size: xx-large;
+    display: block;
+}
+
+.highlight{
+    font-family: monospace;
+}
+
+.skills li::first-letter{
+    font-size: xx-large;
+}
+
